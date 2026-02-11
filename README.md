@@ -1,7 +1,8 @@
 
-This is a project that will be the Integrator Project of my University Univesp.
+# Digital Bank System
 
-Here we are going to create a system, which is very similar to Digital Bank's system.
+This project is being developed as the Integrative Project of my university (UNIVESP).
 
-Throught the evolviment of the project, I'll update this file and the GitHub repository, with the new features.
+The goal of this project is to build a web system similar to a Digital Banking platform, applying concepts of software development, databases, and version control.
 
+Throughout the development of the project, this repository and this README file will be updated to reflect new features, improvements, and architectural decisions.
