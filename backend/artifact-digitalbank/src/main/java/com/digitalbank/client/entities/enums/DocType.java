@@ -1,4 +1,4 @@
-package com.digitalbank.module.client.entities.enums;
+package com.digitalbank.client.entities.enums;
 
 public enum DocType {
     cpf,
