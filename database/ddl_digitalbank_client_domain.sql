@@ -59,7 +59,10 @@ create table client_address(
 	constraint fk_client_address_address foreign key (address_id) references address(id)
 );
 
+-- 3º Fiz uma atualização na tabela client incluindo um campo com ativo/inativo
+create type client_status as enum ('active', 'inactive');
 
+alter table client add column status client_status default 'active';
 
 
 
