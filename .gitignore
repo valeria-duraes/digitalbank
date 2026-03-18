@@ -1,0 +1,6 @@
+## Files that will be ignored on the project 
+
+backend/artifact-digitalbank/src/main/resources/application-prod.properties
+application-*.properties
+
+
